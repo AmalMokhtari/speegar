@@ -1,2 +1,2 @@
-select 1 as id ,
-"hello" as msg
+SELECT 1 AS id, 'hello' AS greeting
+ 
